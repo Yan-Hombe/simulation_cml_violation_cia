@@ -11,5 +11,5 @@ The purpose of this repository is to provide the code used to recreate all simul
 
 - **`results_visualization.py`**: This script is responsible for creating tables and visualizations that display the results of the simulation.
 
-- **`final.csv`**: This file contains all the results from the simulation.
+- **`results.csv`**: This file contains all the results from the simulation.
 
