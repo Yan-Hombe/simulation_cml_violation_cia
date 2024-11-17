@@ -13,3 +13,5 @@ The purpose of this repository is to provide the code used to recreate all simul
 
 - **`results.csv`**: This file contains all the results from the simulation.
 
+- **`master_thesis.pdf`**: This file contains the master thesis.
+
